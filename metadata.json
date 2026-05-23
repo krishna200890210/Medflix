@@ -1,0 +1,6 @@
+{
+  "name": "MedFlix",
+  "description": "An AI-powered family healthcare operating system that organizes reports, monitors trends, tracks medications, and keeps the family safety-synced.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
